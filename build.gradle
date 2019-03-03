@@ -29,6 +29,6 @@ task clean(type: Delete) {
 
 ext {
     supportLibraryVersion = '27.1.1'
-    butterknifeVersion = '8.8.1'
+    butterknifeVersion = '8.8.2'
     daggerVersion = '2.16'
 }
