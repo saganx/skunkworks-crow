@@ -58,5 +58,5 @@ dependencies {
     implementation "com.evernote:android-job:1.2.5"
 
     //MPAndroidChart
-    implementation 'com.github.PhilJay:MPAndroidChart:v3.0.3'
+    implementation 'com.github.PhilJay:MPAndroidChart:v3.0.4'
 }
